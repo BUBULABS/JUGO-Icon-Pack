@@ -5,10 +5,9 @@
     "below": 10,
     "on": "40 20 353"
   },
-  "url": "https://github.com/bubulabs/jugo-icon-pack",
+  "url": "https://github.com/BUBULABS/JUGO-Icon-Pack",
   "releaseNotes": [
-    "This is the text which will be shown on Update",
-    "Another Release Note"
-    "You can Use <b>Text</b> <i>Formatting</i> <u>Too</u>"
+    "Initial Release!!",
+ 
   ]
 }
