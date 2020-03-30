@@ -2,8 +2,8 @@
   "latestVersion": "1.0",
   "latestVersionCode": 1,
   "disableRequest": {
-    "below": 10,
-    "on": "40 20 353"
+    "below": 0,
+    "on": ""
   },
   "url": "https://github.com/BUBULABS/JUGO-Icon-Pack",
   "releaseNotes": [
