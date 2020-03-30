@@ -1,102 +1,14 @@
 {
-        "Wallpapers":
-        [
-           {
-
-
-           "author": "Cristian Vazquez",
-           "url": "http://i.imgur.com/mWLQtzB.jpg",
-           "thumbUrl": "http://i.imgur.com/mWLQtzB.jpg",
-           "name": "PaperWall"
-       },
-	  {
-            "author": "Cristian Vazquez",
-            "url": "http://i.imgur.com/jvJEEvQ.jpg",
-            "thumbUrl": "http://i.imgur.com/jvJEEvQ.jpg",
-            "name": "PaperWall1"
-        },
-        {
-            "author": "Cristian Vazquez",
-            "url": "http://i.imgur.com/uKGblWj.jpg",
-            "thumbUrl": "http://i.imgur.com/uKGblWj.jpg",
-            "name": "PaperWall2"
-        },
-        {
-            "author": "Cristian Vazquez",
-            "url": "http://i.imgur.com/WFSJW5y.jpg",
-            "thumbUrl": "http://i.imgur.com/WFSJW5y.jpg",
-            "name": "PaperWall3"
-        },
-        {
-            "author": "Cristian Vazquez",
-            "url": "http://i.imgur.com/nDw5qIj.png",
-            "thumbUrl": "http://i.imgur.com/nDw5qIj.png",
-            "name": "PaperWall4"
-	    },
-         {
-            "author": "Cristian Vazquez",
-            "url": "http://i.imgur.com/63ud7AI.png",
-            "thumbUrl": "http://i.imgur.com/63ud7AI.png",
-            "name": "PaperWall5"
-          },
-          {
-             "author": "Cristian Vazquez",
-             "url": "http://i.imgur.com/n7uzBxS.png",
-             "thumbUrl": "http://i.imgur.com/n7uzBxS.png",
-             "name": "PaperWall6"
-          },
-          {
-             "author": "Cristian Vazquez",
-             "url": "http://i.imgur.com/z6wu7S2.png",
-             "thumbUrl": "http://i.imgur.com/z6wu7S2.png",
-             "name": "PaperWall7"
-          },
-          {
-             "author": "Cristian Vazquez",
-             "url": "http://i.imgur.com/HXWST7Z.jpg",
-             "thumbUrl": "http://i.imgur.com/HXWST7Z.jpg",
-             "name": "Light Lines Blue"
-
-          },
-          {
-             "author": "Cristian Vazquez",
-             "url": "http://i.imgur.com/DX7l4J0.jpg",
-             "thumbUrl": "http://i.imgur.com/DX7l4J0.jpg",
-             "name": "Light Lines Red"
-          },
-          {
-             "author": "Cristian Vazquez",
-             "url": "http://i.imgur.com/NWxu2A7.jpg",
-             "thumbUrl": "http://i.imgur.com/NWxu2A7.jpg",
-             "name": "Light Lines Orange"
-          },
-          {
-             "author": "Cristian Vazquez",
-             "url": "http://i.imgur.com/80eaEyV.jpg",
-             "thumbUrl": "http://i.imgur.com/80eaEyV.jpg",
-             "name": "Light Lines Green"
-          },
-          {
-             "author": "Cristian Vazquez",
-             "url": "http://i.imgur.com/Cn7vA7x.jpg",
-             "thumbUrl": "http://i.imgur.com/Cn7vA7x.jpg",
-             "name": "Light Lines"
-          },
-          {
-             "author": "Cristian Vazquez",
-             "url": "http://i.imgur.com/k4RFCWp.jpg",
-             "thumbUrl": "http://i.imgur.com/k4RFCWp.jpg",
-             "name": "Color Cottom"
-          },
-          {
-             "author": "Cristian Vazquez",
-             "url": "http://i.imgur.com/Bvf14a6.jpg",
-             "thumbUrl": "http://i.imgur.com/Bvf14a6.jpg",
-             "name": "Color Cottom1"
-
-
-
-
-                }
-        ]
+  "latestVersion": "1.1",
+  "latestVersionCode": 357,
+  "disableRequest": {
+    "below": 356
+  },
+  "url": "https://github.com/zixpo/candybar",
+  "releaseNotes": [
+    "This is the text which will be shown on Update",
+    "This is Awesome",
+    "Please Enjoy My Friend",
+    "<b>This</b> is Just for <i>Testing</i>"
+  ]
 }
